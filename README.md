@@ -1,4 +1,4 @@
-# JuegoInvasionEspacial
+# Juego Invasion Espacial
  
 En esta ocasión he creado un juego simple pero divertido, en el que tienes que sobrevivir a una invasión espacial, derrotando a las naves enemigas.
 Solamente puedes moverte de izquierda y derecha con las fechas del teclado y poder disparar con la barra espaciadora.
